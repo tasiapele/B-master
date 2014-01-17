@@ -1,0 +1,24 @@
+/* Your Website Styles */
+
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
+
+h1{
+
+	font-family: 'Metal Mania', cursive;
+
+}
+
+h3{
+
+	font-family: 'New Rocker', cursive;
+
+}
+
+p{
+
+	font-family: 'Old Standard TT', serif;
+}
